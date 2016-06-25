@@ -1,5 +1,6 @@
 
 
+
 Reproducible Research: Peer Graded Assessment 1
 ===============================================
   Created by Prabhjot Singh on 25th June 2016
@@ -313,6 +314,7 @@ So, after imputing the missing data, the new mean of total steps taken per day i
 ```
 
 ![plot of chunk unnamed-chunk-16](figure/unnamed-chunk-16-1.png)
+```
 ```
 ```
 

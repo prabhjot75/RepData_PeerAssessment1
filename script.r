@@ -9,3 +9,4 @@ library(markdown)
 
 #knit2html(input = "PA1_template.Rmd")
 knit2html(spin("PA1_template.Rmd", knit = FALSE), force_v1 = TRUE)
+
